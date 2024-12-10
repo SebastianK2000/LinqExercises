@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\LINQ\\Linq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC113561-5F10-4596-AFA6-3563C8F826FE}|Linq\\Linq.csproj|C:\\Users\\Admin\\Desktop\\LINQ\\Linq\\linq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC113561-5F10-4596-AFA6-3563C8F826FE}|Linq\\Linq.csproj|solutionrelative:linq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC113561-5F10-4596-AFA6-3563C8F826FE}|Linq\\Linq.csproj|C:\\Users\\Admin\\Desktop\\LINQ\\Linq\\linq\\modellinq.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{FC113561-5F10-4596-AFA6-3563C8F826FE}|Linq\\Linq.csproj|solutionrelative:linq\\modellinq.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC113561-5F10-4596-AFA6-3563C8F826FE}|Linq\\Linq.csproj|c:\\users\\admin\\desktop\\linq\\linq\\linq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC113561-5F10-4596-AFA6-3563C8F826FE}|Linq\\Linq.csproj|solutionrelative:linq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LINQ\\Linq\\Linq\\Form1.cs",
+              "RelativeDocumentMoniker": "Linq\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LINQ\\Linq\\Linq\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Linq\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:44:11.379Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModelLinq.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LINQ\\Linq\\Linq\\ModelLinq.edmx",
+              "RelativeDocumentMoniker": "Linq\\ModelLinq.edmx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LINQ\\Linq\\Linq\\ModelLinq.edmx [Diagram1]",
+              "RelativeToolTip": "Linq\\ModelLinq.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-12-09T17:52:55.23Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LINQ\\Linq\\Linq\\Form1.cs",
+              "RelativeDocumentMoniker": "Linq\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LINQ\\Linq\\Linq\\Form1.cs",
+              "RelativeToolTip": "Linq\\Form1.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAUwE0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:46:23.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

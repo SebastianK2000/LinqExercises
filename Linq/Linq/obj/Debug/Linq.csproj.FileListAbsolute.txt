@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\LINQ\Linq\Linq\bin\Debug\Linq.exe.config
+C:\Users\Admin\Desktop\LINQ\Linq\Linq\bin\Debug\Linq.exe
+C:\Users\Admin\Desktop\LINQ\Linq\Linq\bin\Debug\Linq.pdb
+C:\Users\Admin\Desktop\LINQ\Linq\Linq\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\LINQ\Linq\Linq\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\LINQ\Linq\Linq\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\LINQ\Linq\Linq\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\LINQ\Linq\Linq\obj\Debug\Linq.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\LINQ\Linq\Linq\obj\Debug\Linq.Form1.resources
+C:\Users\Admin\Desktop\LINQ\Linq\Linq\obj\Debug\Linq.Properties.Resources.resources
+C:\Users\Admin\Desktop\LINQ\Linq\Linq\obj\Debug\Linq.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\LINQ\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LINQ\Linq\Linq\obj\Debug\Linq.csproj.Up2Date
+C:\Users\Admin\Desktop\LINQ\Linq\Linq\obj\Debug\Linq.exe
+C:\Users\Admin\Desktop\LINQ\Linq\Linq\obj\Debug\Linq.pdb
